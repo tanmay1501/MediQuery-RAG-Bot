@@ -1,4 +1,4 @@
-# 🏥 MedQuery-RAG-Bot: Healthcare Semantic Search Chatbot with Streamlit, LangChain, LLM, and pgvector
+# 🏥 MediQuery-RAG-Bot: Healthcare Semantic Search Chatbot with Streamlit, LangChain, LLM, and pgvector
 
 ---
 
